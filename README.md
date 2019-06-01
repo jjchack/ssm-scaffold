@@ -1,4 +1,5 @@
 # ssm-scaffold
+<<<<<<< HEAD
 这是一个SpringMVC+Mybatis 脚手架，方便平时的开发使用，也可作为新手的学习项目。
 
 ##依赖
@@ -40,3 +41,6 @@
  - mvc-dispatcher-servlet.xml:SpringMVC配置文件
 
 #ssm-scaffold
+=======
+ssm脚手架
+>>>>>>> 740f66e161a9e095ffac4999212698f32fd766d4
